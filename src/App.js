@@ -14,16 +14,6 @@ class App extends Component {
   toggleShow = () => {
     this.setState({ show: !this.state.show });
   };
-  // componentDidMount() {
-  //   this.startTime = Date.now();
-  // }
-  // componentDidUpdate(_, prevState) {
-  //   if (prevState.show !== this.state.show) {
-  //     this.setState({
-  //       time: Date.now() - this.startTime,
-  //     });
-  //   }
-  // }
   componentDidMount() {
     this.startTime = Date.now();
     this.intervalId = setInterval(() => {
