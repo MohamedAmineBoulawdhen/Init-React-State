@@ -1,4 +1,4 @@
-# Person Profile Component
+# First Class-Based Component
 
 In this project, we will create a class-based component in React that displays a person's profile information. This component will showcase the use of state and component lifecycle methods. 
 
