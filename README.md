@@ -25,8 +25,6 @@ In this project, we will create a class-based component in React that displays a
 ## Conclusion
 
 This project highlights the use of class-based components in React and demonstrates how to create a state and utilize component lifecycle methods to show the time interval since the last component was mounted. The code serves as a foundation for building more complex and dynamic components.
----
-🙌 If you found this repository helpful, show your support by starring it. Your support means a lot. 
-Thank you for your time and consideration!
+
 
 
